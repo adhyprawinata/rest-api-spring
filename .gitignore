@@ -1,0 +1,40 @@
+# Spring Boot
+/target/
+/build/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Maven
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# Gradle
+/gradle/
+/gradlew
+/gradlew.bat
+
+# IDE
+/.idea/
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+# Logs
+/log/
+*.log
+
+# Eclipse
+/.metadata/
+
+# IntelliJ
+/out/
+
+# Dependencies
+/.gradle/
+/.sass-cache/
+/node_modules/
+
+# Testing
+/test-output/
+/test-report/

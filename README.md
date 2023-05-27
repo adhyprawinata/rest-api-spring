@@ -1,5 +1,4 @@
-Repository ini berisi REST API yang dibangun dengan Spring Boot. API ini memiliki beberapa fitur, termasuk manajemen pengguna, autentikasi API key, logging, dan unit test.
-Endpoint
+Repository ini berisi REST API yang dibangun dengan Spring Boot. API ini memiliki beberapa fitur, termasuk daftar pengguna, autentikasi API key, logging, dan unit test.
 
 API ini mengekspos beberapa endpoint terkait manajemen pengguna:
 
